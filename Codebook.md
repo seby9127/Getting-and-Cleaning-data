@@ -1,24 +1,19 @@
----
-title: "README.md"
-output: word_document
----
-**#Dataset description**
+Dataset description
 
-**##Identifiers**
+Identifiers
 
-*"activity": The type of activity
-*"subject": The subject ID
+"activity": The type of activity
+"subject": The subject ID
 
-**Activity column has 6 types as listed below.**
-*WALKING
-*WALKING_UPSTAIRS
-*WALKING_DOWNSTAIRS
-*SITTING
-*STANDING
-*LAYING
+Activity column has 6 types as listed below.
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
 
-**Measurements**
-
+Measurements
 "activity"
 "subject"
 "tBodyAcc-mean()-X"
@@ -88,6 +83,5 @@ output: word_document
 "fBodyBodyGyroJerkMag-mean()"
 "fBodyBodyGyroJerkMag-std()"
 
-**Variable units**
-
+Variable units
 Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
