@@ -1,7 +1,8 @@
 # Dataset description
 
-##Variables
-Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
+## Variables
+
+Thid data has 180 rows and 68 columns.
 
 
 ### Activity column has 6 types as listed below.
